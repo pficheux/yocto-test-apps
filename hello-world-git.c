@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("\r\nHello World - Yocto app test!\r\n\r\n");
+	printf("Hello, World from an application cloned from Github!\r\n");
 	return 0;
 }
